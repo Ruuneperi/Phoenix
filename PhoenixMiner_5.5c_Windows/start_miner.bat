@@ -1,0 +1,6 @@
+setx GPU_FORCE_64BIT_PTR 0
+setx GPU_MAX_HEAP_SIZE 100
+setx GPU_USE_SYNC_OBJECTS 1
+setx GPU_MAX_ALLOC_PERCENT 100
+setx GPU_SINGLE_ALLOC_PERCENT 100
+PhoenixMiner.exe -pool eu.cruxpool.com:5555 -wal 0xfc9aFFca6116b2Aed93A0c0f890abE603aD363Dc -worker HeteroHeino
